@@ -1,0 +1,21 @@
+.Other-Parks-in-the-world {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px, 10px, 30px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    margin: 20px 0px;
+}
+
+.Other-Parks-in-the-world img {
+    width: 500px !important;
+    height: auto;
+    border-radius: 6px;
+}
+
+.Other-Parks-in-the-world h3 {
+    flex-grow: 1;
+    padding-left: 40px;
+    font-size: 20px;
+}
